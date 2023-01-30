@@ -5,7 +5,7 @@
 <!-- ### 🏁 My Favorite Playground is ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9cf)  -->
 ### 📖 My Favorite Foreign Language is  ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=9cf)
 ### 👽️ My Favorite IDE is ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=9cf)
-## 🙈 Currently Interested In ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=9cf) 
+## 🙈 Currently Interested In ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=9cf)  ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=9cf) 
 
 ## :package: I've been to 
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=9cf)
