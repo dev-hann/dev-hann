@@ -1,16 +1,16 @@
 ## Hi! <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>  I'm Han.
 
 ### :earth_asia: I live in  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9cf)
-### 🚀 My Mother Language is ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=9cf) 
-<!-- ### 🏁 My Favorite Playground is ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9cf)  -->
-### 📖 My Favorite Foreign Language is  ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=9cf)
-### 👽️ My Favorite IDE is ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=9cf)
-## 🙈 Currently Interested In ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=9cf)  ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=9cf) 
+### 🚀 My Mother Language is ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=9cf) ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=9cf) ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=9cf)
+### 👽️ My Favorite IDE is ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=9cf) ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=9cf)
+## 🙈 Currently Interested In ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=9cf)
 
 ## :package: I've been to 
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/CICD-Fastlane-informational?style=flat&logo=fastlane&logoColor=white&color=9cf) ![](https://img.shields.io/badge/CICD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=9cf) 
 
-👔 [Hire Me](https://superficial-spur-efa.notion.site/Flutter-Dev-4392b0001c954e1bb765c5620ed7f43b)
+## 👔 Hire Me
+![Click(ko)](https://superficial-spur-efa.notion.site/Han-469da5ad95f54949b8cd1e55e0541a3e?pvs=4)
 
+![Click(zh)](https://superficial-spur-efa.notion.site/Han-Flutter-Dev-ca4b3fefbdd94aafa3b904ee82bbbcd0?pvs=4)
