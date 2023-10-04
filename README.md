@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/CICD-Fastlane-informational?style=flat&logo=fastlane&logoColor=white&color=9cf) ![](https://img.shields.io/badge/CICD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=9cf) 
 
-## 👔 Hire Me
-[Click(ko)](https://superficial-spur-efa.notion.site/Han-469da5ad95f54949b8cd1e55e0541a3e?pvs=4)
+---
 
-[Click(zh)](https://superficial-spur-efa.notion.site/Han-Flutter-Dev-ca4b3fefbdd94aafa3b904ee82bbbcd0?pvs=4)
+## 👔 [Work With Me](https://superficial-spur-efa.notion.site/Han-469da5ad95f54949b8cd1e55e0541a3e?pvs=4)
